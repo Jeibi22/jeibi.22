@@ -1,0 +1,104 @@
+@charset "utf-8";
+.container {
+	background-color: #C7C7C7;
+	background-image: url(../Im%C3%A1genes/fondo%201.png);
+}
+.container article .text-center {
+	color: hsla(211,100%,13%,1.00);
+	text-align: center;
+	font-style: normal;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 33px;
+}
+.container article p {
+	color: hsla(211,100%,13%,1.00);
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-size: large;
+}
+.thumbnail .caption h3 {
+	color: hsla(211,100%,13%,1.00);
+	text-align: center;
+	font-size: 18px;
+}
+.container footer {
+	background-image: -webkit-linear-gradient(354deg,rgba(0,30,64,1.00) 0%,rgba(52,115,146,1.00) 100%);
+	background-image: -moz-linear-gradient(354deg,rgba(0,30,64,1.00) 0%,rgba(52,115,146,1.00) 100%);
+	background-image: -o-linear-gradient(354deg,rgba(0,30,64,1.00) 0%,rgba(52,115,146,1.00) 100%);
+	background-image: linear-gradient(96deg,rgba(0,30,64,1.00) 0%,rgba(52,115,146,1.00) 100%);
+	color: hsla(0,0%,100%,1.00);
+	text-align: center;
+	padding-top: 20px;
+}
+.image-fill {
+	width: 100%;
+
+}
+.container .row .img-responsive {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.container article .col-md-7 {
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: left;
+	font-size: large;
+}
+.container article .text-center.col-md-7 {
+	font-size: 30px;
+	text-align: left;
+}
+.container article p {
+	padding-left: 91px;
+	padding-right: 40px;
+}
+.container .row .img-responsive {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.col-md-6 .thumbnail img {
+	padding-left: 0px;
+	width: 510px;
+}
+.row .col-md-6 .thumbnail {
+	background-color: hsla(0,0%,0%,0.00);
+	-webkit-box-shadow: 0px 0px hsla(0,0%,0%,0.00);
+	box-shadow: 0px 0px hsla(0,0%,0%,0.00);
+	background-size: 0 0;
+	border-width: 0;
+	border-style: 0;
+
+
+}
+footer .row .img-rounded {
+	padding-left: 8px;
+}
+.container footer {
+}
+
+
+
+
+.container article .col-md-6 {
+	text-align: left;
+	font-size: large;
+}
+.container article .col-md-6 {
+	padding-left: 60px;
+	font-size: large;
+
+
+}
+.col-md-6 .thumbnail .image-fill {
+	padding-bottom: 14px;
+}
+.container article .text-center.col-md-7.col-md-offset-2 {
+
+
+}
+.container article .text-center.col-md-7.col-md-offset-2 {
+	text-align: left;
+}
